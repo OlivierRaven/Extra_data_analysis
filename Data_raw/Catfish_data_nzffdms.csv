@@ -1,0 +1,669 @@
+nzffdRecordNumber,eventDate,eventTime,institution,waterBody,waterBodyType,site,catchmentNumber,catchmentName,eastingNZTM,northingNZTM,minimumElevation,distanceOcean,samplingMethod,samplingProtocol,taxonName,taxonCommonName,totalCount,notCountedButPresent,notDetectedButSoughtAtSite,minLength,maxLength,dataVersion
+1023,8/11/1993,day,Opus Consultancy Services,Piako River,Not Entered,,91,Piako R,1824237,5831713,15,66.3,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,205,297,V1
+1024,8/11/1993,day,Opus Consultancy Services,Piako River,Not Entered,,91,Piako R,1824341,5829413,18,69.2,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,180,270,V1
+1674,18/11/1992,9:00,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1834334,5768702,103,196,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1675,18/11/1992,9:25,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1834138,5765801,103,198.8,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1778,18/11/1992,10:40,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1833029,5772302,103,191.8,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1780,19/11/1992,9:00,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1831523,5776202,103,187.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1781,19/11/1992,10:50,Bioresearches,Mangare Stream,Not Entered,,434.32,Waikato R,1828521,5776998,110,187.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+1782,19/11/1992,10:00,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1830322,5776600,103,186.5,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+1784,20/11/1992,10:30,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1828919,5777999,103,186,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+1785,19/11/1992,10:20,Bioresearches,Lake Arapuni,Not Entered,,434.002,Waikato R,1831019,5779302,111,183.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,400,V1
+1789,24/11/1992,9:00,Bioresearches,Lake Karapiro,Not Entered,,434.002,Waikato R,1833397,5795213,53,165.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+1790,24/11/1992,9:10,Bioresearches,Lake Karapiro,Not Entered,,434.002,Waikato R,1833401,5792812,53,168.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1791,24/11/1992,9:55,Bioresearches,Lake Karapiro,Not Entered,,434.002,Waikato R,1833007,5788509,53,172.8,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+1793,24/11/1992,10:35,Bioresearches,Lake Karapiro,Not Entered,,434.002,Waikato R,1832913,5784007,53,177.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+1794,24/11/1992,10:15,Bioresearches,Lake Karapiro,Not Entered,,434.002,Waikato R,1833111,5785708,53,175.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+1871,23/01/2001,13:00,NIWA,Lake Rotoroa,Not Entered,,434.001,Waikato R,1800057,5814370,35,123.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,663,FALSE,FALSE,70,355,V1
+1872,23/01/2001,13:00,NIWA,Lake Rotoroa,Not Entered,,434.001,Waikato R,1800057,5814370,35,123.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,862,FALSE,FALSE,60,340,V1
+2351,1980-10,,NIWA,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1789568,5866863,5,55.2,Electric fishing - Backpack,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+2854,18/11/1983,12:45,Fisheries Ministry North,Aka Aka Stream,Not Entered,,434.06,Waikato R,1758056,5872706,5,19.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+2855,15/02/1984,9:30,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1792973,5864468,7,59,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,52,FALSE,FALSE,,,V1
+2856,10/02/1984,9:30,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792873,5864368,7,59.1,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+2863,26/02/1986,10:30,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793473,5864569,7,59.5,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+2864,11/02/1986,14:18,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784363,5869354,5,46.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,21,FALSE,FALSE,,,V1
+2865,31/01/1986,10:22,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784062,5869653,5,46.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+2868,29/01/1986,10:34,Fisheries Ministry North,Mangawara Stream,Not Entered,,434.2,Waikato R,1794120,5836765,15,91.6,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,42,FALSE,FALSE,,,V1
+2869,15/01/1986,11:12,Fisheries Ministry North,Maramarua River,Not Entered,,434.131,Waikato R,1787661,5870660,5,52.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+2871,6/12/1985,14:06,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784363,5869454,5,46.5,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+2872,4/12/1985,night,Fisheries Ministry North,Opuatia Stream,Not Entered,,434.14,Waikato R,1781985,5856648,7,60.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V1
+2873,3/12/1985,night,Fisheries Ministry North,Lake Whangape,Not Entered,,434.15,Waikato R,1783196,5850549,8,68.5,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+2874,28/11/1985,12:00,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783161,5870351,5,44.9,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+2875,8/11/1985,18:20,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783161,5870351,5,44.9,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+3018,1980,,Unknown Institution,Taringamotu River,Not Entered,,333.651,Whanganui R,1805399,5699243,240,271.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+3019,1980,,Unknown Institution,Ohura River,Not Entered,,333.54,Whanganui R,1788085,5709129,170,304.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+3186,1982,,NIWA,Waikato River,Not Entered,,434,Waikato R,1790510,5842460,9,80.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+3228,13/08/1979,,NIWA,Lake Ngaroto,Not Entered,,434.222,Waikato R,1801084,5796767,30,161.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+3229,19/05/1979,day,NIWA,Unnamed lake,Not Entered,,85.03,Wairoa R,1778308,5898144,40,18.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+3586,30/09/1980,10:30,Private Individuals,Pungarehu Stream,Not Entered,,434.136,Waikato R,1794680,5860271,8,63.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,150,300,V1
+4026,22/11/1979,day,NIWA,Waikato River tributary,Not Entered,,434,Waikato R,1762856,5872615,4,20.5,Electric fishing - Backpack,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+4609,1982,,NIWA,Lake Whakamaru,Not Entered,,434.002,Waikato R,1847474,5741805,220,232.5,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4610,1982,,NIWA,Lake Maraetai,Not Entered,,434.002,Waikato R,1843162,5750204,190,220.5,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4611,1982,,NIWA,Lake Waipapa,Not Entered,,434.002,Waikato R,1834648,5757697,130,207.7,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4612,1982,,NIWA,Lake Arapuni,Not Entered,,434.002,Waikato R,1830120,5778001,103,184.9,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4613,1982,,NIWA,Lake Karapiro,Not Entered,,434.002,Waikato R,1823888,5799201,53,153,Other - Not listed,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4699,1982,,NIWA,Lake Ohakuri,Not Entered,,434.002,Waikato R,1870386,5743932,285,260,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+4700,1982,,NIWA,Lake Atiamuri,Not Entered,,434.002,Waikato R,1864078,5746827,250,252.1,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+5043,1981,,Unknown Institution,Whanganui River,Not Entered,,333,Whanganui R,1779966,5582698,5,16,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+5863,27/09/1983,10:00,Waikato Regional Council,Lake Rotokawau,Not Entered,,434.161,Waikato R,1793899,5849767,10,76.1,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,155,FALSE,FALSE,150,450,V1
+5941,23/02/1983,day,NIWA,Lake Kopuera,Not Entered,,434.161,Waikato R,1789087,5856260,9,75.4,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+5945,23/02/1983,day,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1788314,5839756,12,84.3,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+5946,23/02/1983,,NIWA,Waikato River,Not Entered,,434,Waikato R,1790410,5842660,9,80.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+6494,9/01/1985,10:30,Waikato Regional Council,Lake Rotomanuka,Not Entered,,434.24,Waikato R,1803580,5799971,55,140.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,80,,V1
+7085,1/07/1984,,Unknown Institution,Lake Serpentine,Not Entered,,434.24,Waikato R,1803784,5797271,50,144.1,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+7113,27/11/1984,10:00,Waikato Regional Council,Lake Hakanoa,Not Entered,,434.18,Waikato R,1791412,5841762,9,81.7,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,100,300,V1
+7114,29/11/1984,10:40,Waikato Regional Council,Lake Kimihia,Not Entered,,434.18,Waikato R,1793708,5844366,10,80.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,200,V1
+7115,30/11/1984,10:20,Waikato Regional Council,Lake Okowhao,Not Entered,,434,Waikato R,1789207,5844459,10,79.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,200,300,V1
+7116,4/12/1984,10:00,Waikato Regional Council,Te Otomanui Lagoon,Not Entered,,434.22,Waikato R,1788142,5822653,15,106.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+7117,5/12/1984,9:30,Waikato Regional Council,Lake Pikopiko,Not Entered,,434,Waikato R,1793332,5829363,30,95.6,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+7119,7/12/1984,10:00,Waikato Regional Council,Lake Hotoananga,Not Entered,,434,Waikato R,1792531,5829962,30,95,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+7301,19/08/1985,,NIWA,Waikato River,Not Entered,,434.001,Waikato R,1799853,5817070,15,115.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7322,9/03/1988,,NIWA,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1792559,5871869,5,59.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7323,29/06/1989,night,NIWA,Lake Aratiatia,Not Entered,,434.002,Waikato R,1870712,5719916,330,326.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+7338,10/01/1984,,NIWA,Waikato River,Not Entered,,434,Waikato R,1790313,5840960,10,82,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7340,29/03/1984,,NIWA,Waikato River,Not Entered,,434,Waikato R,1784787,5855453,8,62.6,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7342,9/02/1984,,NIWA,Waikato River,Not Entered,,434,Waikato R,1781669,5865948,6,49.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7344,29/02/1984,,NIWA,Waikato River,Not Entered,,434,Waikato R,1782865,5868251,6,46.7,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+7350,10/10/1985,,NIWA,Huntly Power Station intake,Not Entered,,434,Waikato R,1790210,5842660,9,80.2,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,176,FALSE,FALSE,,,V1
+8406,19/11/1992,10:30,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato R,1800358,5813770,35,123.7,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,20,FALSE,FALSE,222,316,V1
+8476,3/04/1986,night,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792873,5864368,7,59.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V1
+8477,3/04/1986,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793173,5864369,7,59.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+8479,8/11/1985,night,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792973,5864368,7,59.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+8480,6/11/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783361,5870152,5,45.2,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,,,V1
+8481,5/11/1985,night,Fisheries Ministry North,Mangawara Stream,Not Entered,,434.2,Waikato R,1793822,5835865,15,90.4,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+8482,4/11/1985,night,Fisheries Ministry North,Waikato River,Not Entered,,434,Waikato R,1782584,5857249,6,59.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8484,4/11/1985,night,Fisheries Ministry North,Lake Whangape,Not Entered,,434.15,Waikato R,1783295,5850950,8,68,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+8485,17/10/1985,night,Fisheries Ministry North,Lake Whangape,Not Entered,,434.15,Waikato R,1782095,5850947,8,68.4,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,29,FALSE,FALSE,,,V1
+8486,3/10/1985,night,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792973,5864468,7,59,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8487,3/10/1985,9:35,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1794073,5864570,8,60.4,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,42,FALSE,FALSE,,,V1
+8489,2/10/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1792072,5864667,6,57.8,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+8491,2/10/1985,11:45,Fisheries Ministry North,Reao Stream,Not Entered,,434.135,Waikato R,1787770,5865759,6,52.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+8492,16/04/1986,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784062,5869753,5,46.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+8493,1/10/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783962,5869853,5,46,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+8494,1/10/1985,night,Fisheries Ministry North,Maramarua River,Not Entered,,434.131,Waikato R,1785459,5871456,5,49.9,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+8495,4/09/1985,night,Fisheries Ministry North,Mangawara Stream,Not Entered,,434.2,Waikato R,1792923,5835163,30,89.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+8496,3/07/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1794273,5864671,9,60.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+8497,2/07/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793373,5864569,7,59.4,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+8498,30/05/1985,night,Fisheries Ministry North,Opuatia Stream,Not Entered,,434.14,Waikato R,1782587,5855249,7,62.3,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8499,29/05/1985,night,Fisheries Ministry North,Mangawara Stream,Not Entered,,434.2,Waikato R,1794919,5837567,15,93,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,32,FALSE,FALSE,,,V1
+8502,27/05/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793972,5864670,8,60.3,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+8503,23/04/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793373,5864569,7,59.4,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8504,22/04/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793373,5864569,7,59.4,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+8506,27/03/1985,night,Fisheries Ministry North,Lake Whangape,Not Entered,,434.15,Waikato R,1783295,5850750,8,68.3,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8507,26/03/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1793373,5864569,7,59.4,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+8508,14/02/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783261,5870252,5,45,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+8510,13/02/1985,night,Fisheries Ministry North,Opuatia Stream,Not Entered,,434.14,Waikato R,1781985,5856748,7,60.6,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,21,FALSE,FALSE,,,V1
+8511,13/02/1985,night,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792873,5864468,7,59,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+8513,4/02/1985,11:15,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783261,5870252,5,45,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+8514,24/01/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1783061,5870451,5,44.8,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,12,FALSE,FALSE,,,V1
+8515,22/01/1985,night,Fisheries Ministry North,Maramarua River,Not Entered,,434.131,Waikato R,1787661,5870660,5,52.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,24,FALSE,FALSE,,,V1
+8516,22/01/1985,night,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784863,5869154,5,47.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+8517,7/12/1984,13:00,Fisheries Ministry North,Whangamarino River,Not Entered,,434.13,Waikato R,1784062,5869553,5,46.2,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,582,FALSE,FALSE,,,V1
+8518,6/12/1984,14:00,Fisheries Ministry North,Maramarua River,Not Entered,,434.131,Waikato R,1785160,5870855,5,49.2,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,67,FALSE,FALSE,,,V1
+8519,25/10/1984,15:55,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792974,5863568,7,60,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,,,V1
+8520,24/10/1984,13:25,Fisheries Ministry North,Maramarua River,Not Entered,,434.131,Waikato R,1789359,5871863,5,55,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+8521,11/09/1984,15:20,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792873,5864368,7,59.1,Other net - Unknown type of net,Unknown,Ameiurus nebulosus,Catfish,319,FALSE,FALSE,,,V1
+8522,20/07/1984,10:00,Fisheries Ministry North,Pungarehu Stream,Not Entered,,434.136,Waikato R,1792873,5864368,7,59.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+8523,17/07/1984,night,Fisheries Ministry North,Lake Whangape,Not Entered,,434.15,Waikato R,1784091,5853051,8,65.6,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,,,V1
+8656,20/03/1988,8:00,Fish and Game Northland,Wairua River,Not Entered,,466,Wairoa R,1712256,6059866,90,132.4,Observation - Observation,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+9003,10/09/1990,,Waikato Regional Council,Piako River,Not Entered,,91,Piako R,1821868,5870722,2,13.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+9009,19/09/1990,,Waikato Regional Council,Piako River,Not Entered,,91,Piako R,1824192,5857922,2,29.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+9012,19/09/1990,,Waikato Regional Council,Piako River,Not Entered,,91,Piako R,1822901,5852819,2,37.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+9205,5/12/2001,,Department of Conservation West Coast,Lake Mahinapua,Not Entered,,906.005,Hokitika R,1428637,5259977,4,10,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+9208,5/12/2001,,Department of Conservation West Coast,Lake Mahinapua,Not Entered,,906.005,Hokitika R,1431236,5259377,4,10.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+9752,3/05/1988,10:30,NIWA,Kopuku Stream,Not Entered,,434.134,Waikato R,1793659,5872271,6,60.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+9826,20/09/1988,night,NIWA,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1791173,5863865,6,58,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+10006,8/11/1989,10:00,NIWA,Lake Arapuni headrace,Not Entered,,434.002,Waikato R,1831514,5782905,110,179.4,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+10007,9/11/1989,night,NIWA,Lake Karapiro,Not Entered,,434.002,Waikato R,1832013,5783406,80,178.9,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,22,FALSE,FALSE,,,V1
+10078,14/02/1990,,Waikato Regional Council,Mangapiko Stream,Not Entered,,434.222,Waikato R,1813196,5790782,50,193.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+10080,14/02/1990,10:30,Waikato Regional Council,Mangapiko Stream,Not Entered,,434.222,Waikato R,1802591,5791568,40,175.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+10085,21/11/1989,11:00,Waikato Regional Council,Eastern Drain,Not Entered,,434,Waikato R,1761458,5871613,0,18.6,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+11001,13/06/1989,16:00,Fish and Game Auckland Waikato,Lake Rotoroa,Not Entered,,434.001,Waikato R,1800058,5814170,35,123.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+11553,22/03/1990,12:00,NZ Forest Products,Waikato River,Not Entered,,434.001,Waikato R,1811676,5804085,20,137.6,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,250,,V1
+11681,13/08/1992,10:30,Private Individuals,Waikato River,Not Entered,,434.001,Waikato R,1822686,5800199,35,151.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,16,FALSE,FALSE,,,V1
+12007,7/03/1992,9:00,NZ Forest Products,Lake Whakamaru,Not Entered,,434.002,Waikato R,1849074,5742507,220,234.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,185,300,V1
+12177,2/12/1996,,NIWA,Unnamed lagoon,Not Entered,,434.002,Waikato R,1887915,5729441,290,297.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,219,354,V1
+12179,2/12/1996,,NIWA,Waikato River,Not Entered,,434.002,Waikato R,1888015,5729842,290,297.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,85,259,V1
+12281,12/12/2001,,Department of Conservation Tongariro Taupo,Lake Aratiatia,Not Entered,,434.002,Waikato R,1872813,5721019,330,323.7,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,17,FALSE,FALSE,,,V1
+12796,22/10/1999,8:00,NIWA,Whakapara River,Not Entered,,466.14,Wairoa R,1716339,6065974,90,142.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,200,,V1
+12869,11/03/2002,,Department of Conservation Tongariro Taupo,Hardcastle Lagoon,Not Entered,,434.002,Waikato R,1889913,5732446,290,293.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+12870,12/03/2002,,Department of Conservation Tongariro Taupo,Unnamed lagoon,Not Entered,,434.002,Waikato R,1888115,5729442,290,297.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V1
+12874,20/03/2002,,Department of Conservation Waikato,Lake Whakamaru,Not Entered,,434.002,Waikato R,1845872,5742903,220,230.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+12875,21/03/2002,,Department of Conservation Waikato,Lake Atiamuri,Not Entered,,434.002,Waikato R,1864378,5746827,250,252.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+12877,24/03/2002,,Department of Conservation Waikato,Torepatutahi Stream,Not Entered,,434.54,Waikato R,1888509,5734946,290,290.5,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+12878,24/03/2002,,Department of Conservation Waikato,Waiotapu Stream,Not Entered,,434.53,Waikato R,1887308,5735245,290,288.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+12888,10/04/2002,,Department of Conservation Auckland,Rangitopuni Stream,Not Entered,,78.05,Waitemata Hbr,1744442,5932375,5,4.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+13414,15/08/1996,12:00,Native Freshwater Fish Club,Lake Rotokauri,Not Entered,,434.22,Waikato R,1793749,5818461,30,130.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+13836,29/02/1996,night,Opus Consultancy Services,Mangaorongo Stream,Not Entered,,434.225,Waikato R,1795913,5774654,35,189.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+13909,7/09/2002,day,Landcare Research,Oruarangi Creek,Not Entered,,439.02,Mangere,1756893,5906103,0,1.7,Other net - Hand net,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+14340,14/03/1995,night,Private Individuals,Mangapiko Stream,Not Entered,,434.222,Waikato R,1799589,5792964,35,170.1,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+14341,14/03/1995,night,Private Individuals,Mangapiko Stream,Not Entered,,434.222,Waikato R,1800290,5792265,35,171.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+14342,15/03/1995,night,Private Individuals,Mangapiko Stream,Not Entered,,434.222,Waikato R,1801491,5791866,35,174.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+14343,15/03/1995,night,Private Individuals,Mangapiko Stream,Not Entered,,434.222,Waikato R,1803091,5791568,40,176.5,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+14544,19/10/1999,15:00,NIWA,Wairua River,Not Entered,,466,Wairoa R,1698897,6045438,50,100.4,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,250,300,V1
+14546,20/10/1999,11:30,NIWA,Wairua River,Not Entered,,466,Wairoa R,1704373,6054048,85,116.5,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,150,250,V1
+14550,21/10/1999,9:15,NIWA,Otakairangi Stream,Not Entered,,466,Wairoa R,1705656,6060749,90,130.2,Electric fishing - Combination of traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,300,V1
+14822,14/10/1997,,Kingett Mitchell,Waipapa Stream,Not Entered,,434,Waikato R,1782268,5866049,15,49.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+15038,23/05/1996,9:00,Department of Conservation Northland,Kawakawa River tributary,Not Entered,,38,Kawakawa R,1697895,6085519,10,3.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,310,,V1
+15269,21/10/2002,9:00,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1848929,5686976,357,370.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,158,FALSE,FALSE,176,308,V1
+15270,22/10/2002,13:30,Waikato University,Waikato River,Not Entered,,434.002,Waikato R,1869412,5719114,335,328.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,302,362,V1
+15271,23/10/2002,13:55,Waikato University,Lake Aratiatia,Not Entered,,434.002,Waikato R,1871612,5720418,330,325.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,39,FALSE,FALSE,228,420,V1
+15272,23/10/2002,13:00,Waikato University,Lake Maraetai,Not Entered,,434.002,Waikato R,1842064,5747701,190,223.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,444,FALSE,FALSE,185,355,V1
+15273,23/10/2002,11:30,Waikato University,Lake Maraetai,Not Entered,,434.002,Waikato R,1843859,5752606,190,223.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,212,FALSE,FALSE,244,328,V1
+15274,24/10/2002,9:15,Waikato University,Waikato River,Not Entered,,434.001,Waikato R,1822986,5799700,40,151.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,26,FALSE,FALSE,138,285,V1
+15275,24/10/2002,14:30,Waikato University,Waikato River,Not Entered,,434.001,Waikato R,1796745,5821967,15,108.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,29,FALSE,FALSE,181,340,V1
+16563,8/05/1998,night,Waikato Regional Council,Waitoa River,Not Entered,,91.13,Piako R,1833228,5839131,11,58.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+16937,15/01/1998,18:00,Native Freshwater Fish Club,Waikato River tributary,Not Entered,,434.001,Waikato R,1799853,5816870,30,115.6,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+17156,1997-10,,NIWA,Kaituna Lagoon,Not Entered,,677,Kaituna Lgn,1571301,5152699,1,24.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,265,298,V1
+17284,3/04/2003,night,Department of Conservation Waikato,Lake Areare,Not Entered,,434,Waikato R,1794033,5828764,30,98.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,250,,V1
+17376,18/07/1997,,Department of Conservation Waikato,Awaroa Stream,Not Entered,,434.151,Waikato R,1776199,5848237,9,78.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,160,,V1
+17389,8/04/2003,night,Department of Conservation Waikato,Lake B,Not Entered,,434.211,Waikato R,1798136,5827370,30,100.7,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,35,230,V1
+17390,15/04/2003,night,Department of Conservation Waikato,Lake D,Not Entered,,434.211,Waikato R,1797035,5827868,30,99,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,32,FALSE,FALSE,25,300,V1
+17392,23/04/2003,night,Department of Conservation Waikato,Lake Pikopiko,Not Entered,,434,Waikato R,1793332,5829463,30,95.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,230,290,V1
+17856,11/03/2003,14:30,Waikato University,Lake Waikare,Not Entered,,434.161,Waikato R,1796892,5853973,9,71.2,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+17860,10/09/2003,13:00,Waikato University,Waikato River,Not Entered,,434,Waikato R,1790507,5844361,10,78.5,Electric fishing - Type unknown,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,290,,V1
+17869,30/01/2003,15:00,Waikato University,Lake Whangape,Not Entered,,434.15,Waikato R,1780493,5852045,8,69.9,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,190,349,V1
+19255,8/10/2003,10:00,Boffa Miskell Ltd,Dairy Stream tributary,Not Entered,,78.057,Waitemata Hbr,1748822,5941683,50,18.1,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,130,160,V1
+19333,28/04/2004,9:00,Auckland Regional Council,Lake Wainamu,Not Entered,,447.01,Waitakere R,1730776,5916350,30,4.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,360,365,V1
+20414,31/08/2004,9:00,Auckland Regional Council,Lake Wainamu,Not Entered,,447.01,Waitakere R,1730776,5916350,30,4.1,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,355,,V1
+20598,20/02/2001,night,Department of Conservation Northland,Lake Ora,Not Entered,,55,Hatea R,1716282,6048980,190,9.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+20653,8/12/2004,,NIWA,Whauwhautahi Stream,Not Entered,,434,Waikato R,1761229,5868017,3,15.1,Traps - Gee minnow,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,94,,V1
+21603,17/05/2001,night,Natural Logic Ltd,Unnamed lake,Not Entered,,435,Pehiakura L,1743437,5883479,90,1.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,200,230,V1
+21604,17/05/2001,night,Natural Logic Ltd,Pehiakura Lake,Not Entered,,435,Pehiakura L,1743337,5883679,70,1.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,210,240,V1
+21653,25/10/2002,12:15,Waikato University,Waikato River,Not Entered,,434,Waikato R,1790417,5838660,10,84.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,208,389,V1
+21654,25/09/2002,12:40,Waikato University,Waikato River,Not Entered,,434,Waikato R,1790507,5844361,10,78.5,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,136,FALSE,FALSE,158,323,V1
+21776,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1849229,5687076,357,370.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,781,FALSE,FALSE,80,365,V1
+21777,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1839022,5689168,357,375.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,95,FALSE,FALSE,80,350,V1
+21778,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1840426,5684767,357,376.8,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3140,FALSE,FALSE,80,365,V1
+21779,1995-08,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1865216,5712806,357,338.5,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+21780,1995-08,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1853706,5715096,357,359.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V1
+21781,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1848428,5687876,357,369.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1700,FALSE,FALSE,90,365,V1
+21782,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1838922,5688668,357,375.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,385,FALSE,FALSE,,,V1
+21783,1995-08,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1857430,5691986,357,362.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+21784,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1838922,5689268,357,375.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,53,FALSE,FALSE,,,V1
+21785,1995-02,night,Waikato University,Lake Taupo,Not Entered,,434.61,Waikato R,1846229,5684972,357,374.1,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,67,FALSE,FALSE,,,V1
+21787,2000-06,night,Waikato Regional Council,Lake Rotomanuka,Not Entered,,434.24,Waikato R,1803580,5799971,55,140.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,174,262,V1
+21790,2000-06,night,Waikato Regional Council,Lake Rotomanuka,Not Entered,,434.24,Waikato R,1803580,5799971,55,140.4,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+21797,23/05/2001,night,Waikato Regional Council,Lake Rotomanuka,Not Entered,,434.24,Waikato R,1803580,5799971,55,140.4,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,151,279,V1
+22108,2/03/2006,12:20,Waikato University,Ohote Stream tributary,Not Entered,,434.22,Waikato R,1792290,5819664,30,128.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+22251,6/03/2006,day,Waikato University,Unnamed lake,Not Entered,,92,Waihou R,1831863,5869645,5,20.4,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+22252,16/03/2006,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato R,1800337,5814334,35,123.5,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+22440,29/01/2003,night,Department of Conservation Northland,Ngaha Creek,Not Entered,,472,Hokianga Hbr,1634243,6079155,0,1.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,295,,V1
+22441,29/01/2003,night,Department of Conservation Northland,Unnamed pond,Not Entered,,472,Hokianga Hbr,1631645,6079148,5,5.1,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,23,FALSE,FALSE,51,390,V1
+22444,12/02/2003,night,Department of Conservation Northland,Kaihu River tributary,Not Entered,,466.04,Wairoa R,1674467,6021089,1,29.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,25,FALSE,FALSE,,50,V1
+22555,26/05/2006,10:30,Kessels and Associates,Waikato River tributary,Not Entered,,434.001,Waikato R,1795531,5824781,20,105.3,Other net - Hand net,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,85,,V1
+22873,8/12/2006,day,Waikato University,Waikato River tributary,Not Entered,,434.001,Waikato R,1801452,5815358,20,117.8,Electric fishing - Bank generator or mains,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+23044,12/08/1999,,Department of Conservation Waikato,Unnamed wetland,Not Entered,,91,Piako R,1822383,5862821,5,22.7,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,182,FALSE,FALSE,70,230,V1
+23045,12/08/1999,,Department of Conservation Waikato,Unnamed wetland,Not Entered,,91,Piako R,1823696,5855421,5,32.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,65,65,V1
+23147,14/02/2006,night,Department of Conservation Waikato,Unnamed lake,Not Entered,,434.24,Waikato R,1803697,5798049,50,143.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,93,,V1
+23148,15/02/2006,night,Department of Conservation Waikato,Unnamed lake,Not Entered,,434.24,Waikato R,1803652,5797120,50,144.3,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,204,329,V1
+23149,16/02/2006,night,Department of Conservation Waikato,Unnamed lake,Not Entered,,434.24,Waikato R,1803818,5797112,50,144.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,227,,V1
+23406,2003-09,,Waikato Regional Council,Lake Serpentine,Not Entered,,434.24,Waikato R,1803584,5797071,50,144.3,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+23407,2002-09,,Waikato Regional Council,Lake Serpentine,Not Entered,,434.24,Waikato R,1803584,5797071,50,144.3,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+25767,13/04/2004,10:00,Bioresearches,Dairy Stream tributary,Not Entered,,78.057,Waitemata Hbr,1748727,5938983,40,16.7,Electric fishing - Combination of traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,60,,V1
+25852,14/02/2005,,Waikato University,Waikato River,Not Entered,,434,Waikato R,1790493,5844374,10,78.5,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+25856,14/02/2005,,Waikato University,Whangape Stream,Not Entered,,434.15,Waikato R,1783876,5855550,8,62.1,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+25857,14/02/2005,,Waikato University,Opuatia Stream,Not Entered,,434.14,Waikato R,1782139,5857642,8,59.6,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+25861,15/02/2005,,Waikato University,Waikato River,Not Entered,,434,Waikato R,1782189,5870327,5,44.4,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+28680,5/03/2007,day,Bioresearches,Paremuka Stream,Not Entered,,79.032,Henderson C,1743814,5919260,10,0.8,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+29132,21/02/2008,night,Kessels and Associates,Piako River,Not Entered,,91,Piako R,1824741,5829760,15,68.6,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,56,,V1
+29134,21/02/2008,16:20,Kessels and Associates,Piako River,Not Entered,,91,Piako R,1824719,5830635,15,67.6,Electric fishing - Bank generator or mains,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,52,55,V1
+29135,21/02/2008,night,Kessels and Associates,Piako River,Not Entered,,91,Piako R,1824719,5830635,15,67.6,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,50,,V1
+29722,14/08/2007,night,Department of Conservation Waikato,Whangamarino River,Not Entered,,434.13,Waikato R,1787453,5866044,90,52.2,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,65,250,V1
+29724,16/08/2007,night,Department of Conservation Waikato,Pungarehu Stream,Not Entered,,434.13,Waikato R,1795703,5857878,10,66.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,268,,V1
+29725,14/08/2007,night,Department of Conservation Waikato,Maramarua River,Not Entered,,434.131,Waikato R,1786638,5870992,15,51.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,95,300,V1
+29726,2/08/2007,night,Department of Conservation Waikato,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1793389,5863494,15,60,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,67,FALSE,FALSE,94,280,V1
+29727,16/08/2007,night,Department of Conservation Waikato,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1788161,5865100,15,53.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,123,282,V1
+29728,16/08/2007,night,Department of Conservation Waikato,Pungarehu Stream,Not Entered,,434.13,Waikato R,1793389,5863494,10,60,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,260,280,V1
+29730,14/08/2007,night,Department of Conservation Waikato,Whangamarino Swamp,Not Entered,,434.13,Waikato R,1784244,5869521,15,46.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,142,293,V1
+29935,20/01/2009,night,TSO Animal Pests,Lake Aratiatia,Not Entered,,434.002,Waikato R,1872892,5720887,330,323.6,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+29937,20/01/2009,night,TSO Animal Pests,Lake Aratiatia,Not Entered,,434.002,Waikato R,1872892,5720887,320,323.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+29938,21/01/2009,night,TSO Animal Pests,Lake Ohakuri,Not Entered,,434.002,Waikato R,1869745,5744222,290,259.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+29941,21/01/2009,night,TSO Animal Pests,Lake Ohakuri,Not Entered,,434.002,Waikato R,1869745,5744222,290,259.2,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+29944,22/01/2009,night,TSO Animal Pests,Lake Atiamuri,Not Entered,,434.002,Waikato R,1864398,5746992,250,252.4,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+29946,22/01/2009,night,TSO Animal Pests,Lake Atiamuri,Not Entered,,434.002,Waikato R,1864398,5746992,250,252.4,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+29949,18/02/2009,night,TSO Animal Pests,Lake Whakamaru,Not Entered,,434.002,Waikato R,1845737,5742938,230,230.5,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,12,FALSE,FALSE,,,V1
+29951,18/02/2009,night,TSO Animal Pests,Lake Whakamaru,Not Entered,,434.002,Waikato R,1845737,5742938,230,230.5,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+31246,11/04/2007,12:40,Bioresearches,Puni Wetland,Not Entered,,434.001,Waikato R,1763111,5871794,14,19.9,Electric fishing - Backpack,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+31271,18/09/2006,day,Bioresearches,Puni Wetland,Not Entered,,434,Waikato R,1761740,5870137,12,16.7,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,95,,V1
+31275,18/09/2006,day,Bioresearches,Puni Wetland,Not Entered,,434,Waikato R,1763111,5871794,15,19.9,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+31280,1/12/2006,day,Bioresearches,Puni Wetland,Not Entered,,434,Waikato R,1762160,5870414,14,17.6,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+31281,1/12/2006,day,Bioresearches,Puni Wetland,Not Entered,,434,Waikato R,1762368,5870786,10,18.1,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+31282,19/09/2006,13:00,Bioresearches,Puni Wetland,Not Entered,,434,Waikato R,1763000,5871556,9,19,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+31993,12/03/2009,9:20,Bioresearches,Waitoa River,Not Entered,,91.13,Piako R,1832513,5837049,17,61.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,180,,V1
+32283,17/02/2011,11:00,NIWA,Waikato River tributary,Not Entered,,434.001,Waikato R,1793999,5825065,26,104.3,Traps - Gee minnow,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,75,85,V1
+32747,26/02/2010,12:00,NIWA,Ruaotehuia Stream,Not Entered,,434.131,Waikato R,1791185,5874382,20,58.4,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,286,330,V1
+32781,8/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787816,5839347,28,85,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,285,,V1
+32782,8/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787882,5839312,28,85,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,225,,V1
+32783,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787554,5839773,19,84.7,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+32787,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1788002,5840392,19,84,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+32788,8/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787569,5840595,19,84.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+32789,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787475,5840611,19,83.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+32791,8/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1786234,5841398,19,85.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,290,,V1
+32792,8/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1786181,5841506,19,85.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,99,,V1
+32793,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1786650,5842007,19,85.3,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+32794,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1786758,5842045,19,85.2,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+32795,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787805,5841738,19,83.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,21,FALSE,FALSE,208,320,V1
+32796,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1787930,5841819,19,83.9,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+32814,7/03/2011,night,NIWA,Lake Waahi,Not Entered,,434.19,Waikato R,1788364,5839916,19,84.2,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,87,,V1
+36051,25/01/2012,9:53,Waikato Regional Council,Mangaotama Stream,Not Entered,,434.22,Waikato R,1800024,5798382,34,160.8,Electric fishing - Bank generator or mains,Unknown,Ameiurus nebulosus,Catfish,105,FALSE,FALSE,25,290,V1
+50305,28/04/1976,,Unknown Institution,Lake Mahinapua,Not Entered,,906.005,Hokitika R,1429837,5259777,4,9.9,Other - Not listed,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+55047,28/08/1963,,Unknown Institution,Unnamed pond,Not Entered,,439,Mangere,1755090,5907799,10,0.3,Other - Not listed,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+55156,1972,,NIWA,Waikato River,Not Entered,,434,Waikato R,1772360,5870432,5,31,Traps - Unknown type of trap,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+100089,13/02/2012,night,Waikato Regional Council,Komakorau Stream tributary,Not Entered,,434.21,Waikato R,1801795,5825892,30,108.8,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,176,,V1
+100810,4/12/2013,13:00,Kessels and Associates,Waipapa Stream tributary,Stream,,434,Waikato R,1783051,5863198,20,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+101055,26/03/2013,15:00,Waikato Regional Council,Whangamarino River,Wetland,,434.13,Waikato R,1785897,5864532,20,52,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,57,77,V1
+100042,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1781455,5865885,15,49.07,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+100044,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1780146,5865554,15,50.4,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+100047,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1781209,5866042,15,49.07,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+100048,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1780826,5865892,15,49.41,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+100049,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1780624,5865575,15,50.48,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+100050,12/12/2010,0:00,NIWA,Waikato River,River,,434,Waikato R,1780346,5865400,15,50.4,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+102019,10/04/2009,,NIWA,Waahi Stream,Stream,,434.19,Waikato R,1790025,5842207,20,80.2,Fyke net - Super,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+102023,25/04/2009,,NIWA,Waahi Stream,Stream,,434.19,Waikato R,1790025,5842207,20,80.2,Fyke net - Super,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+102225,25/02/2014,12:59,NIWA,Waikato River,River,,434,Waikato River,1790394,5842061,13,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+102366,25/02/2015,17:10,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1844071,5751881,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+102367,25/02/2015,17:05,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1844015,5751305,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+102368,25/02/2015,18:40,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1844109,5751377,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+102371,25/02/2015,18:41,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1843617,5751103,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+102372,25/02/2015,17:35,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1844002,5752584,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+102376,25/02/2015,17:43,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1844219,5752413,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+102378,25/02/2015,17:15,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1843976,5752025,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+102393,24/02/2015,15:40,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1843891,5752038,172,218.31,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+102394,24/02/2015,19:50,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1843891,5752038,172,218.31,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+102413,16/06/2014,9:00,Department of Conservation Northland,Makaka Creek,Stream,,466,Wairoa R,1680344,6011355,15,15.79,Other - Not listed,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+103317,8/06/2015,,Kessels and Associates,Mangawhero Stream,Stream,,91.07,Piako River,1820527,5861479,-1,22.17,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+103319,8/06/2015,,Kessels and Associates,Waitoa River tributary,Stream,,91.13,Piako R,1827125,5846855,10,43.87,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+105472,13/05/2005,10:58,Waikato University,Horseshoe Lake,Not Entered,,434.22,Waikato R,1796134,5817364,38,134.07,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,16,FALSE,FALSE,,,V1
+105473,13/05/2005,12:50,Waikato University,Horseshoe Lake,Not Entered,,434.22,Waikato R,1796091,5817286,38,134.07,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V1
+105539,4/07/2004,14:00,Waikato University,Unnamed lake,Not Entered,,434.001,Waikato River,1803842,5815455,46,119.47,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,12,FALSE,FALSE,,,V1
+105561,19/09/2003,10:58,Waikato University,Unnamed lake,Not Entered,,434.24,Waikato River,1803854,5797081,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105564,26/10/2005,12:20,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800267,5813792,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105565,26/10/2005,13:05,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1799907,5814088,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105566,26/10/2005,13:26,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800117,5814641,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,21,FALSE,FALSE,,,V1
+105567,16/03/2006,9:15,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800033,5814154,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+105572,25/06/2007,14:30,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800173,5814019,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105573,9/08/2007,9:50,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800173,5814019,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105593,1/08/2003,13:39,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800203,5814179,37,121.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,23,FALSE,FALSE,,,V1
+105595,5/12/2003,11:51,Waikato University,Lake Whangape,Not Entered,,434.15,Waikato River,1782651,5852568,30,64.06,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105619,9/12/2004,11:15,Waikato University,Waikato River tributary,Not Entered,,434,Waikato River,1779932,5873225,15,40.19,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105620,9/12/2004,12:05,Waikato University,Waikato River tributary,Not Entered,,434,Waikato River,1780217,5873203,15,40.19,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105622,9/12/2004,14:10,Waikato University,Waikato River tributary,Not Entered,,434,Waikato River,1781268,5872858,16,41.93,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+105639,30/04/2004,11:20,Waikato University,Unnamed lake,Not Entered,,434.001,Waikato River,1803945,5815310,46,119.47,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,36,FALSE,FALSE,,,V1
+105640,30/04/2004,12:05,Waikato University,Unnamed lake,Not Entered,,434.001,Waikato River,1803945,5815310,46,119.47,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+105666,14/02/2005,11:07,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790393,5844092,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105670,14/02/2005,15:05,Waikato University,Whangape Stream,Not Entered,,434.15,Waikato River,1783833,5855670,17,61.11,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105674,25/02/2005,11:15,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790537,5843450,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105676,19/04/2005,12:28,Waikato University,Waikato River,Not Entered,,434,Waikato River,1799597,5819229,20,111.08,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+105685,23/09/2005,10:45,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790605,5842152,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105686,23/09/2005,11:40,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790405,5844071,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105687,18/10/2005,10:45,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790605,5842152,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105689,15/11/2005,10:26,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790605,5841898,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105691,4/08/2006,12:34,Waikato University,Waikato River,Not Entered,,434.001,Waikato River,1802636,5813038,18,121.58,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105718,23/01/2004,11:27,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790572,5842329,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105719,23/01/2004,13:43,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790503,5841437,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105726,16/04/2004,11:25,Waikato University,Waikato River,Not Entered,,434,Waikato River,1785245,5855278,37,62.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105727,16/04/2004,11:54,Waikato University,Waikato River,Not Entered,,434,Waikato River,1785245,5855278,37,62.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105729,16/04/2004,14:10,Waikato University,Whangape Stream,Not Entered,,434.15,Waikato River,1783837,5855630,17,61.11,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105730,16/04/2004,14:33,Waikato University,Whangape Stream,Not Entered,,434.15,Waikato River,1783997,5855181,19,61.95,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105731,5/05/2004,12:38,Waikato University,Waikato River tributary,Not Entered,,434,Waikato River,1791297,5845998,26,76.27,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105732,5/05/2004,13:40,Waikato University,Waikato River,Not Entered,,434,Waikato River,1791143,5846148,10,75.01,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+105733,19/05/2004,12:26,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790478,5844358,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V1
+105741,21/05/2004,11:40,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790749,5846857,10,73.64,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105743,21/05/2004,13:30,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790370,5847377,10,73.64,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105744,21/05/2004,13:55,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790479,5848126,9,73.27,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105745,21/05/2004,14:30,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790495,5848559,9,73.27,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105746,26/05/2004,,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790892,5845697,11,75.26,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+105748,14/07/2004,11:31,Waikato University,Waikato River,Not Entered,,434,Waikato River,1782736,5869038,16,45.48,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+105750,14/07/2004,14:13,Waikato University,Waikato River,Not Entered,,434,Waikato River,1782885,5868597,16,45.48,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105752,22/09/2004,11:16,Waikato University,Waikato River,Not Entered,,434,Waikato River,1782922,5868995,16,45.48,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105753,22/09/2004,13:25,Waikato University,Waikato River,Not Entered,,434,Waikato River,1782787,5868966,16,45.48,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+105754,8/10/2004,11:10,Waikato University,Waikato River tributary,Not Entered,,434,Waikato River,1791291,5845998,26,76.27,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105758,15/12/2004,14:05,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790627,5842036,17,78.21,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+105760,30/07/2003,12:29,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790436,5844195,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105761,10/09/2003,11:15,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790436,5844195,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105763,10/10/2003,11:30,Waikato University,Waikato River,Not Entered,,434,Waikato River,1792899,5834163,9,89.01,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+105771,7/12/2004,11:15,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1782717,5870482,34,44.05,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+105772,7/12/2004,12:10,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1783106,5870271,16,44.4,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105773,7/12/2004,13:20,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1784213,5869551,16,44.4,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,15,FALSE,FALSE,,,V1
+105774,7/12/2004,14:40,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1784077,5869691,16,44.4,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105787,21/08/2007,11:18,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787424,5866082,13,51.84,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105789,21/08/2007,12:03,Waikato University,Reao Stream,Not Entered,,434.135,Waikato River,1787703,5865834,12,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105791,21/08/2007,12:48,Waikato University,Reao Stream,Not Entered,,434.135,Waikato River,1787680,5865420,12,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105797,23/08/2007,10:39,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1792994,5864472,10,58.67,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105800,23/08/2007,12:41,Waikato University,Pungarehu Stream,Not Entered,,434.136,Waikato River,1792931,5864427,7,58.67,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105801,23/08/2007,12:57,Waikato University,Pungarehu Stream,Not Entered,,434.136,Waikato River,1793068,5864270,7,58.67,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105803,23/08/2007,13:26,Waikato University,Pungarehu Stream,Not Entered,,434.136,Waikato River,1793061,5864178,7,58.67,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105804,23/08/2007,13:56,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1792919,5864640,3,57.89,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105815,4/03/2008,10:50,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787545,5865966,13,51.84,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105816,4/03/2008,12:08,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787440,5866088,13,51.84,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V1
+105817,4/03/2008,11:50,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787421,5866087,13,51.84,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+105819,4/03/2008,11:15,Waikato University,Reao Stream,Not Entered,,434.135,Waikato River,1787697,5865829,12,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+105887,22/01/2015,,Department of Conservation Northland,Kaihu River,Not Entered,,466.04,Wairoa River,1673468,6027943,27,35.32,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,330,390,V1
+105888,28/01/2015,night,Department of Conservation Northland,Kaihu River,Not Entered,,466.04,Wairoa River,1671068,6029788,19,39.9,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,430,,V1
+106173,14/03/2016,14:00,Kessels and Associates,Mangatawhiri River tributary,Stream,,434.12,Waikato River,1780947,5875333,10,45.2,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106452,31/03/2016,,NIWA,Lake Waahi,Lake,,434.19,Waikato River,1789089,5841333,13,82.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106452,31/03/2016,,NIWA,Lake Waahi,Lake,,434.19,Waikato River,1789089,5841333,13,82.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106452,31/03/2016,,NIWA,Lake Waahi,Lake,,434.19,Waikato River,1789089,5841333,13,82.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106452,31/03/2016,,NIWA,Lake Waahi,Lake,,434.19,Waikato River,1789089,5841333,13,82.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V2
+106452,31/03/2016,,NIWA,Lake Waahi,Lake,,434.19,Waikato River,1789089,5841333,13,82.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106473,1/05/2014,,NIWA,Te Awa O Katapaki Stream,Stream,,434.001,Waikato River,1800283,5818477,23,112.49,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V2
+106503,11/02/2014,,NIWA,Lake Waahi & Lake Puketirini,Lake,,434.19,Waikato River,1788380,5839899,13,82.22,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106503,11/02/2014,,NIWA,Lake Waahi & Lake Puketirini,Lake,,434.19,Waikato River,1788380,5839899,13,82.22,Other net - Seine,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106506,27/04/2014,11:00,NIWA,Lake Puketirini tributary,Stream,,434.19,Waikato River,1788739,5839394,9,84.3,Electric fishing - Bank generator or mains,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+106528,25/02/2014,,NIWA,Waikato River,River,,434,Waikato River,1790347,5843078,11,78.3,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+106531,18/12/2014,12:45,NIWA,Hills Drain,Stream,,434,Waikato River,1751524,5866586,44,14.02,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,22,FALSE,FALSE,,,V2
+106532,10/12/2014,11:20,NIWA,Otaua Tributary,Stream,,434,Waikato River,1754794,5869924,3,12.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106534,15/12/2014,12:00,NIWA,Awaroa River tributary,Stream,,434,Waikato River,1750897,5874398,56,23.93,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,230,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106540,8/12/2014,11:10,NIWA,Aka Aka Stream,Stream,,434.06,Waikato River,1758888,5871121,0,17.33,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106556,23/02/2015,,NIWA,Lake Maraetai,Lake,,434.002,Waikato River,1842907,5750145,172,218.31,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106564,26/02/2015,,NIWA,Lake Waipapa,River,,434.002,Waikato River,1834536,5758364,124,208.85,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106564,26/02/2015,,NIWA,Lake Waipapa,River,,434.002,Waikato River,1834536,5758364,124,208.85,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+106564,26/02/2015,,NIWA,Lake Waipapa,River,,434.002,Waikato River,1834536,5758364,124,208.85,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106564,26/02/2015,,NIWA,Lake Waipapa,River,,434.002,Waikato River,1834536,5758364,124,208.85,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106602,25/02/2015,,NIWA,Lake Whakamaru,Lake,,434.002,Waikato River,1846483,5742288,222,231.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+106602,25/02/2015,,NIWA,Lake Whakamaru,Lake,,434.002,Waikato River,1846483,5742288,222,231.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106602,25/02/2015,,NIWA,Lake Whakamaru,Lake,,434.002,Waikato River,1846483,5742288,222,231.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106602,25/02/2015,,NIWA,Lake Whakamaru,Lake,,434.002,Waikato River,1846483,5742288,222,231.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+106602,25/02/2015,,NIWA,Lake Whakamaru,Lake,,434.002,Waikato River,1846483,5742288,222,231.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+109160,4/04/2016,12:30,Waikato Regional Council,Whangamarie Stream floodgate,Stream,,434.2,Waikato River,1794129,5835612,9,90.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+109162,25/05/2016,10:00,Waikato Regional Council,Whangamaire Stream floodgate,Not Entered,,434.2,Waikato River,1794129,5835612,9,90.34,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,15,FALSE,FALSE,,,V2
+109525,2/10/2013,10:00,Waikato Regional Council,Lake Waikare tributary,Not Entered,,434.161,Waikato River,1794074,5848870,8,76.67,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+109525,2/10/2013,10:00,Waikato Regional Council,Lake Waikare tributary,Not Entered,,434.161,Waikato River,1794074,5848870,8,76.67,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+109737,31/07/2014,12:40,Bioresearches,Otara Creek pond,Pond,,82.02,Tamaki River,1771923,5906140,55,7.05,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,110,330,V1
+109738,31/07/2014,12:50,Bioresearches,Otara Creek pond,Pond,,82.02,Tamaki River,1771887,5906115,55,7.05,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,280,290,V1
+110298,6/12/2016,11:30,Mike Mcglynn,Mararua Stream,River,,466,Wairoa River,1712122,6057639,94,124.62,"Traps - G minnow (fine mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+110299,7/12/2016,12:30,Mike Mcglynn,Mangahahuru Stream,River,,466.13,Wairoa River,1712130,6057772,88,124.62,"Traps - G minnow (coarse mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,24,FALSE,FALSE,,,V2
+110300,7/12/2016,10:40,Mike Mcglynn,Forsythe Stream,Stream,,466,Wairoa River,1711145,6062947,108,131.84,"Traps - G minnow (fine mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,15,FALSE,FALSE,,,V2
+110301,6/12/2016,10:30,Mike Mcglynn,Luptons Point Drain,River,,466,Wairoa River,1713407,6060416,81,128.73,"Traps - G minnow (fine mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+110303,8/12/2016,9:15,Mike Mcglynn,Okarika Stream,River,,466,Wairoa River,1708867,6057012,93,121.36,"Traps - G minnow (fine mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+110309,8/12/2016,10:15,Mike Mcglynn,Otakairangi Stream,Stream,,466,Wairoa River,1705579,6060740,94,127.76,"Traps - G minnow (fine mesh, unbaited)",Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V2
+110531,2/12/2016,11:00,Department of Conservation Northland,Kaihu River tributary,Stream,,466.04,Wairoa River,1672864,6026076,19,34.73,Fyke net - Super,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+110531,2/12/2016,11:00,Department of Conservation Northland,Kaihu River tributary,Stream,,466.04,Wairoa River,1672864,6026076,19,34.73,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+110531,2/12/2016,11:00,Department of Conservation Northland,Kaihu River tributary,Stream,,466.04,Wairoa River,1672864,6026076,19,34.73,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+110562,17/03/2014,13:00,Waikato Regional Council,Mangaoronga Stream,Stream,,434.22,Waikato River,1802643,5771778,50,204.59,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+110970,4/10/2013,,Waikato Regional Council,Komakorau Stream,Not Entered,,434.21,Waikato River,1797762,5833536,19,94.64,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,300,,V1
+111015,5/12/2003,day,Waikato University,Lake Whangape,Not Entered,,434.15,Waikato River,1779148,5852276,13,64.06,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+111061,3/12/2013,night,Waikato Regional Council,Ohote Stream,Not Entered,,434.22,Waikato River,1792976,5816466,17,130.47,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,299,324,V1
+111113,19/05/2004,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790470,5844384,13,77.85,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V1
+111119,21/05/2004,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790414,5847326,10,73.64,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+111149,3/12/2013,night,Waikato Regional Council,Ohote Stream,Not Entered,,434.22,Waikato River,1792559,5816828,25,129.65,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,82,388,V1
+111223,9/02/2006,day,Waikato University,Lake Kimihia,Not Entered,,434.18,Waikato River,1793802,5844167,19,78.45,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111232,10/11/2006,day,Waikato University,Waikato River,Not Entered,,434.001,Waikato River,1801561,5814929,32,117.54,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+111240,7/03/2007,day,Waikato University,Lake Waahi,Not Entered,,434.19,Waikato River,1788306,5839811,27,82.35,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,17,FALSE,FALSE,,,V1
+111241,26/03/2007,day,Waikato University,Lake Waahi,Not Entered,,434.19,Waikato River,1788306,5839811,13,82.22,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+111264,21/08/2007,day,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787424,5866082,13,51.77,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111266,23/08/2007,day,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1793183,5864444,10,58.67,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111267,23/08/2007,day,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1792919,5864641,3,57.89,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+111279,4/03/2008,day,Waikato University,Whangamarino River,Not Entered,,434.13,Waikato River,1787698,5865830,13,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111295,4/09/2008,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800258,5814648,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+111296,5/09/2008,day,Waikato University,Lake Whangape,Not Entered,,434.15,Waikato River,1781455,5851147,30,64.06,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111301,4/12/2008,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800307,5814492,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,22,FALSE,FALSE,,,V1
+111303,12/12/2008,day,Waikato University,Lake Rotokaeo,Not Entered,,434.001,Waikato River,1798264,5817071,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,,,V1
+111304,9/01/2009,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800358,5814093,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+111305,2/02/2009,day,Waikato University,Lake Ngaroto,Not Entered,,434.221,Waikato River,1801157,5797291,48,163.49,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+111306,4/02/2009,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795998,5805220,37,150.31,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,33,FALSE,FALSE,,,V1
+111312,29/04/2009,day,Waikato University,Lake Otamatearoa,Not Entered,,435,Lake Otamatearoa,1749545,5871005,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111313,14/05/2009,day,Waikato University,Lake D,Not Entered,,434,Waikato River,1798020,5827316,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111314,20/05/2009,day,Waikato University,Mangatawhiri River,Not Entered,,434.12,Waikato River,1779743,5873156,15,40.19,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+111317,21/05/2009,day,Waikato University,Lake Kimihia,Not Entered,,434.18,Waikato River,1793256,5844792,19,78.45,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111318,28/05/2009,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1791854,5847909,9,76.97,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111320,17/08/2009,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800307,5814492,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V1
+111321,18/09/2009,day,Waikato University,Lake D,Not Entered,,434.001,Waikato River,1796842,5827252,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+111322,29/09/2009,day,Waikato University,Lake Rotokauri,Not Entered,,434.22,Waikato River,1793552,5818663,29,129.37,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111323,16/10/2009,day,Waikato University,Lake Hakanoa,Not Entered,,434.18,Waikato River,1791543,5841902,13,80.15,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111324,10/11/2009,day,Waikato University,Maungatawhiri Stream,Not Entered,,434.12,Waikato River,1792855,5877254,21,64.83,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V1
+111336,9/02/2010,day,Waikato University,Waikato River,Not Entered,,434.001,Waikato River,1799292,5818245,20,113.35,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,42,FALSE,FALSE,,,V1
+111340,30/03/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111341,31/03/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V1
+111342,1/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+111344,19/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111345,20/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,117,FALSE,FALSE,,,V1
+111346,21/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V1
+111347,22/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,16,FALSE,FALSE,,,V1
+111348,23/04/2010,day,Waikato University,Lake Mangahia,Not Entered,,434.22,Waikato River,1795912,5805307,37,150.31,Electric fishing - combination of nets and electric fishing,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,,,V1
+111355,11/10/2010,day,Waikato University,Reao Stream,Not Entered,,434.135,Waikato River,1787819,5865498,12,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+111359,15/11/2010,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790500,5841982,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+111366,24/01/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111367,25/01/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V1
+111369,27/01/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,29,FALSE,FALSE,,,V1
+111376,23/03/2011,day,Waikato University,Lake Waahi,Not Entered,,434.19,Waikato River,1788648,5840469,20,81.03,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+111385,17/11/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111386,18/11/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111388,22/11/2011,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790553,5841110,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+111389,29/11/2011,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,,,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111391,9/01/2012,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800226,5814108,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V1
+111392,10/01/2012,day,Waikato University,Knighton Lake,Not Entered,,434.001,Waikato River,1803832,5815403,,,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,193,FALSE,FALSE,,,V1
+111393,20/01/2012,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,,,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111394,17/02/2012,day,Waikato University,Waikato River,Not Entered,,434.001,Waikato River,1801585,5814334,32,117.54,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+111397,30/08/2012,day,Waikato University,Lake Waahi,Not Entered,,434.19,Waikato River,1787936,5841091,20,81.03,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111398,6/09/2012,day,Waikato University,Lake Kimihia,Not Entered,,434.18,Waikato River,1793802,5844167,19,78.45,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V1
+111404,8/01/2013,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111412,2/09/2013,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790544,5841944,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111414,17/09/2013,day,Waikato University,Whangamarino River tributary,Not Entered,,434.13,Waikato River,1794570,5864168,18,60.09,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+111416,2/12/2013,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Electric fishing - combination of nets traps and electric fishing,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+111417,22/01/2014,day,Waikato University,Oranga Lake,Not Entered,,434.001,Waikato River,1803951,5815311,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+111418,29/01/2014,day,Waikato University,Oranga Lake,Not Entered,,434.001,Waikato River,1803951,5815311,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,,,V1
+111420,12/02/2014,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790536,5841944,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V1
+111421,12/03/2014,day,Waikato University,Waihou River Hikutaia Cut,Not Entered,,92,Waihou River,1831995,5869274,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111422,14/03/2014,day,Waikato University,Oranga Lake,Not Entered,,434.001,Waikato River,1803951,5815311,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V1
+111424,24/06/2014,day,Waikato University,Waikato River,Not Entered,,434,Waikato River,1790553,5841110,11,78.3,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V1
+111426,1/12/2014,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Other net - combination of nets and traps,Unknown,Ameiurus nebulosus,Catfish,157,FALSE,FALSE,,,V1
+111427,8/12/2014,day,Waikato University,Knighton Lake,Not Entered,,434.001,Waikato River,1803832,5815403,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,38,FALSE,FALSE,,,V1
+111432,13/01/2015,day,Waikato University,Waihou River Hikutaia Cut,Not Entered,,92,Waihou River,1831995,5869274,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V1
+111433,4/03/2015,day,Waikato University,Chapel Lake,Not Entered,,434.001,Waikato River,1803847,5815154,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,43,FALSE,FALSE,,,V1
+111434,25/03/2015,day,Waikato University,Raeo Stream,Not Entered,,434.135,Waikato River,1787819,5865498,12,52.33,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V1
+111435,8/04/2015,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800505,5814038,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V1
+111436,14/04/2015,day,Waikato University,Lake Rotoroa,Not Entered,,434.001,Waikato River,1800498,5814068,,,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V1
+111437,25/06/2015,day,Waikato University,Oranga Lake,Not Entered,,434.001,Waikato River,1803951,5815311,,,Gill net - Single mesh,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V1
+111441,24/02/2016,day,Waikato University,Lake Hakanoa,Not Entered,,434.18,Waikato River,1791454,5841682,13,80.15,Electric fishing - Boat,Unknown,Ameiurus nebulosus,Catfish,42,FALSE,FALSE,,,V1
+111443,8/12/2016,day,Waikato University,Lake Ohinewai,Not Entered,,434,Waikato River,1792002,5848071,9,76.97,Fyke net - Fyke net including minifykes,Unknown,Ameiurus nebulosus,Catfish,311,FALSE,FALSE,,,V1
+111444,24/01/2017,day,Waikato University,Lake Milicich,Not Entered,,434.221,Waikato River,1797763,5804544,44,159.9,Other net - combination of nets,Unknown,Ameiurus nebulosus,Catfish,118,FALSE,FALSE,,,V1
+112298,13/11/2017,12:00,Kessels and Associates,Kaihere Canal tributary,Stream,,91.04,Piako River,1820101,5866018,3,20.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+112536,27/10/2015,10:00,Waikato Regional Council,Lake Kimihia outlet stream,Stream,,434.18,Waikato River,1791530,5845540,26,76.27,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+112540,9/12/2015,10:30,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato R,1804575,5827368,30,107.21,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+112540,9/12/2015,10:30,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato R,1804575,5827368,30,107.21,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,,FALSE,FALSE,,,V2
+112543,30/11/2016,10:30,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato R,1795752,5834133,10,90.74,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112543,30/11/2016,10:30,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato R,1795752,5834133,10,90.74,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112543,30/11/2016,10:30,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato R,1795752,5834133,10,90.74,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112544,18/11/2014,10:00,Waikato Regional Council,Lake Rotongaro tributary,Stream,,434.152,Waikato R,1785005,5846002,22,73.42,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+112544,18/11/2014,10:00,Waikato Regional Council,Lake Rotongaro tributary,Stream,,434.152,Waikato R,1785005,5846002,22,73.42,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+112544,18/11/2014,10:00,Waikato Regional Council,Lake Rotongaro tributary,Stream,,434.152,Waikato R,1785005,5846002,22,73.42,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112544,18/11/2014,10:00,Waikato Regional Council,Lake Rotongaro tributary,Stream,,434.152,Waikato R,1785005,5846002,22,73.42,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112544,18/11/2014,10:00,Waikato Regional Council,Lake Rotongaro tributary,Stream,,434.152,Waikato R,1785005,5846002,22,73.42,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112582,13/12/2017,15:00,Kessels and Associates,Piako River tributary,Stream,,91,Piako River,1821322,5866406,-1,17.17,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112668,21/11/2014,10:00,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato River,1804575,5827368,30,107.21,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112668,21/11/2014,10:00,Waikato Regional Council,Komakorau Stream,Stream,,434.21,Waikato River,1804575,5827368,30,107.21,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112673,3/03/2014,10:00,Waikato Regional Council,Mangatea Stream tributary,Stream,,434.204,Waikato River,1812855,5839204,38,120.14,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+112678,7/11/2014,10:00,Waikato Regional Council,Mangatea Stream,Stream,,434.204,Waikato River,1809362,5837144,61,113.99,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+114521,29/11/2011,12:15,Kessels and Associates,Piako River,River,,91,Piako River,1822765,5855012,8,31.45,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+114522,29/11/2011,12:15,Kessels and Associates,Piako River,River,,91,Piako River,1822761,5855012,8,31.45,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+114523,29/11/2011,12:15,Kessels and Associates,Piako River,River,,91,Piako River,1824252,5856788,9,29.49,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+114526,30/11/2011,12:15,Kessels and Associates,Piako River tributary,River,,91,Piako River,1821801,5863979,5,20.29,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+114527,30/11/2011,12:15,Kessels and Associates,Central Canal,River,,91.06,Piako River,1820794,5863517,6,21.6,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+114528,30/11/2011,12:15,Kessels and Associates,Piako River,River,,91,Piako River,1821659,5860538,7,23.9,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+114535,2/12/2011,12:15,Kessels and Associates,Awaiti Canal,River,,91.03,Piako River,1829593,5858007,6,27.72,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V2
+115535,12/02/2019,8:00,NIWA,Gibbons Creek,Stream,,434.001,Waikato River,1802173,5815033,30,117.54,Electric fishing - Backpack,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+115596,5/03/2019,16:30,Department of Conservation West Coast,Lake Mahinapua,Lake,,906.005,Hokitika River,1429692,5259874,12,8.84,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+115596,5/03/2019,16:30,Department of Conservation West Coast,Lake Mahinapua,Lake,,906.005,Hokitika River,1429692,5259874,12,8.84,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+115596,5/03/2019,16:30,Department of Conservation West Coast,Lake Mahinapua,Lake,,906.005,Hokitika River,1429692,5259874,12,8.84,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+115596,5/03/2019,16:30,Department of Conservation West Coast,Lake Mahinapua,Lake,,906.005,Hokitika River,1429692,5259874,12,8.84,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+115596,5/03/2019,16:30,Department of Conservation West Coast,Lake Mahinapua,Lake,,906.005,Hokitika River,1429692,5259874,12,8.84,Gill net - Multi mesh,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,17,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,20,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+115976,11/04/2019,11:20,Unknown Institution,Bell Road Pump Station,Stream,,434.131,Waikato River,1790436,5874639,12,57.04,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,51,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,198,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,30,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116061,29/04/2019,11:00,Unknown Institution,Waikato River Mangawhero Pumpstation,Stream,,434,Waikato River,1763162,5871991,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,38,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,11,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,22,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,,,V2
+116068,14/05/2019,11:00,Unknown Institution,Waikato River Okowhao Pumpstation,Stream,,434,Waikato River,1790287,5844928,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,182,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,67,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,15,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,19,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,12,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,22,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+116070,23/04/2019,10:50,Unknown Institution,Waikato River,Stream,,434,Waikato River,1781242,5861221,16,54.44,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,45,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,18,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,29,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,69,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,34,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,31,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,14,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,32,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,48,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,79,FALSE,FALSE,,,V2
+116073,15/04/2019,12:00,Unknown Institution,Pungarehu Stream tributary pumpstation,Stream,,434.136,Waikato River,1793487,5861901,16,61.5,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,78,FALSE,FALSE,,,V2
+116238,18/06/2019,11:00,Tonkin and Taylor,Waipa Stream tributary,Stream,,434,Waikato River,1785473,5861740,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116238,18/06/2019,11:00,Tonkin and Taylor,Waipa Stream tributary,Stream,,434,Waikato River,1785473,5861740,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+116238,18/06/2019,11:00,Tonkin and Taylor,Waipa Stream tributary,Stream,,434,Waikato River,1785473,5861740,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116355,9/01/2017,,Boffa Miskell Ltd,Hingaia Stream,Not Entered,,438.03,Hingaia Stream,1773139,5891247,15,1.22,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116451,18/06/2019,10:30,Tonkin and Taylor,Waipapa Stream tributary,Stream,,434.41,Waikato River,1785487,5861643,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116451,18/06/2019,10:30,Tonkin and Taylor,Waipapa Stream tributary,Stream,,434.41,Waikato River,1785487,5861643,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+116451,18/06/2019,10:30,Tonkin and Taylor,Waipapa Stream tributary,Stream,,434.41,Waikato River,1785487,5861643,23,55.15,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+116821,8/05/2019,10:00,Waikato Regional Council,Lake Mangakaware,Lake,,434.22,Waikato River,1795115,5799263,28,157.06,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,167,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,51,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,10,FALSE,FALSE,,,V2
+118668,18/03/2020,9:15,Waikato Regional Council,Bell Road Pumpstation,River,,434.131,Waikato River,1791213,5875891,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,9,FALSE,FALSE,,,V2
+118695,7/05/2020,14:30,Waikato Regional Council,Whangmaire Stream,Stream,,438.01,Whangamaire Stream,1796809,5835440,,,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,7,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,4,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,2,FALSE,FALSE,,,V2
+118706,13/11/2019,9:30,Waikato Regional Council,Lake Ngarotoiti outlet channel,Stream,,434.221,Waikato River,1801480,5797854,34,164.86,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+118746,16/06/2020,13:00,Boffa Miskell Ltd,Waikato River unnamed tributary,Stream,,434.001,Waikato River,1798976,5822781,40,111.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,8,FALSE,FALSE,,,V2
+118746,16/06/2020,13:00,Boffa Miskell Ltd,Waikato River unnamed tributary,Stream,,434.001,Waikato River,1798976,5822781,40,111.66,Fyke net - Standard,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+120467,7/12/2020,6:00,Waikato Regional Council,Lake Okowhao outlet stream,Stream,,434,Waikato River,1789764,5844883,16,78.61,Fyke net - Super,Unknown,Ameiurus nebulosus,Catfish,411,FALSE,FALSE,,,V2
+121302,22/04/2021,11:00,Northland Regional Council,Awakino River,River,,466.05,Wairoa River,1676791,6031551,20,41.3,Gill net - Trammel,Unknown,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V2
+122545,1/07/2019,10:00,Ecology New Zealand Ltd,Farm drain,Stream,,434.161,Waikato River,1791307,5849452,,,Fyke net - Mini,Unknown,Ameiurus nebulosus,Catfish,25,FALSE,FALSE,,,V2
+123660,3/03/2022,,Department of Conservation Northland,Tauraroa River tributary drains,Stream,"Tributary drains, Tauraroa River (Leslie Road)",466.072,Wairoa River,1708953,6028799,,,Gill net - Single mesh,Joy et al 2013,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V3
+123660,3/03/2022,,Department of Conservation Northland,Tauraroa River tributary drains,Stream,"Tributary drains, Tauraroa River (Leslie Road)",466.072,Wairoa River,1708953,6028799,,,Traps - Gee minnow,Joy et al 2013,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
+125465,25/05/2022,13:00,Boffa Miskell Ltd,Waerenga Stream,Stream,Waerenga Stream reach,214.093,Waikato River,1799797,5864508,23,69.31,Chemical detection - DNA,No published standard method,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V3
+125507,28/06/2022,12:53,Boffa Miskell Ltd,Rotongaro Canal,Stream,Rotongaro Canal reach,434.001,Waikato River,1786809,5850893,11,67.14,Chemical detection - DNA,No published standard method,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V3
+125609,5/04/2022,16:00,Boffa Miskell Ltd,Wilson drain down stream of quarry and sediment ponds,Stream,Up-stream from confluence with Wairua,466.13,Hatea River,1714876,6061007,100,129.99,Fyke net - Standard,No published standard method,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
+125610,5/04/2022,,Boffa Miskell Ltd,Wilson drain at pump station,Other,Up-stream from confluence with Wairua,466.13,Wairoa River,1713418,6060360,94,127.95,Fyke net - Standard,No published standard method,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
+125610,5/04/2022,,Boffa Miskell Ltd,Wilson drain at pump station,Other,Up-stream from confluence with Wairua,466.13,Wairoa River,1713418,6060360,94,127.95,Fyke net - Mini,No published standard method,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
+125687,27/05/2021,14:30,Boffa Miskell Ltd,Unnamed Tributary of Waikato River (Southern gully tributary stream),Stream,Southern gully tributary survey reach,434.001,Waikato River,1795377,5823963,20,105.2,Chemical detection - DNA,No published standard method,Ameiurus nebulosus,Catfish,,TRUE,FALSE,,,V3
+125699,9/07/2022,9:00,Ecology New Zealand Ltd,Belami Drain,Stream,,434.001,Waikato River,1791482,5848105,10,79.52,Fyke net - Standard,Joy et al 2013,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,70,140,V3
+125699,9/07/2022,9:00,Ecology New Zealand Ltd,Belami Drain,Stream,,434.001,Waikato River,1791482,5848105,10,79.52,Traps - Gee minnow,Joy et al 2013,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,,,V3
+125709,29/06/2022,9:00,Ecology New Zealand Ltd,Unnamed tributary Waikato River,Stream,,434.001,Waikato River,1793408,5824650,40,104.38,Fyke net - Standard,Joy et al 2013,Ameiurus nebulosus,Catfish,13,FALSE,FALSE,70,400,V3
+125791,2/10/2019,,Pattle Delamore Partners Ltd,Puhinui Creek,Pond,Puhinui Creek Pond,438.06,Manukau Harbour,1767399,5903620,29,7.05,Fyke net - Standard,No published standard method,Ameiurus nebulosus,Catfish,3,FALSE,FALSE,300,400,V3
+125865,14/10/2022,10:00,Ecology New Zealand Ltd,Unnamed lake,Lake,,434.161,Waikato River,1790711,5857020,9,71.64,Fyke net - Standard,No published standard method,Ameiurus nebulosus,Catfish,33,FALSE,FALSE,150,330,V3
+127648,17/10/2022,,Tonkin and Taylor,Waipa River Tributary,Stream,,434.22,Waikato River,1795515,5819783,38,112.17,Traps - Gee minnow,Joy et al 2013,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
+127648,17/10/2022,,Tonkin and Taylor,Waipa River Tributary,Stream,,434.22,Waikato River,1795515,5819783,38,112.17,Fyke net - Standard,Joy et al 2013,Ameiurus nebulosus,Catfish,81,FALSE,FALSE,95,270,V3
+127649,17/10/2022,,Tonkin and Taylor,Waipa River Tributary,Stream,,434.22,Waikato River,1795030,5821184,39,110.36,Fyke net - Mini,Joy et al 2013,Ameiurus nebulosus,Catfish,6,FALSE,FALSE,90,265,V3
+127650,17/10/2022,,Tonkin and Taylor,Waipa River Tributary,Stream,,434.22,Waikato River,1794365,5821052,38,110.36,Fyke net - Mini,Joy et al 2013,Ameiurus nebulosus,Catfish,5,FALSE,FALSE,,,V3
+127652,19/10/2022,,Tonkin and Taylor,Waipa River Tributary,Stream,,434.22,Waikato River,1791632,5822552,31,106.62,Fyke net - Mini,Joy et al 2013,Ameiurus nebulosus,Catfish,1,FALSE,FALSE,,,V3
